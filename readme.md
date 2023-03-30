@@ -5,6 +5,7 @@
 - node
 - git
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [patched font](https://github.com/ryanoasis/nerd-fonts)
 
 # Installation
 
